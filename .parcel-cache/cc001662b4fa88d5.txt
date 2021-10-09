@@ -1,0 +1,12 @@
+11
+44C:\works\app-test\dist\index.fc614997.js.map132782566237696658 0
+40C:\works\app-test\dist\index.82496ab1.js132782580646226469 0
+24C:\works\app-test\app.js132782580644859219 0
+40C:\works\app-test\dist\index.fc614997.js132782566237667376 0
+44C:\works\app-test\dist\index.82496ab1.js.map132782580646255757 0
+22C:\works\app-test\dist132782580646265507 1
+41C:\works\app-test\dist\index.41af72ba.css132782579453351026 0
+28C:\works\app-test\index.html132782576642508043 0
+45C:\works\app-test\dist\index.41af72ba.css.map132782579453663337 0
+34C:\works\app-test\tailwind.min.css132782576556360446 0
+33C:\works\app-test\dist\index.html132782579453341257 0
